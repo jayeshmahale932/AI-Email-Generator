@@ -137,8 +137,6 @@ You'll see:
 
 Open your browser and navigate to **`http://localhost:5000`**
 
-![Usage Demo](https://via.placeholder.com/600x300/2563eb/ffffff?text=Web+Interface+Demo)
-
 ### 3. Basic Usage
 
 1. **📝 Input**: Enter a customer complaint in the text area
