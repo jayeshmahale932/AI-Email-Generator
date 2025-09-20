@@ -11,8 +11,6 @@
 
 [🚀 Quick Start](#-quick-start) • [📖 Documentation](#-api-documentation) • [🌟 Features](#-features) • [🛠️ Installation](#-installation--setup)
 
-![Demo](https://via.placeholder.com/800x400/1f2937/ffffff?text=AI+Email+Generator+Demo)
-
 </div>
 
 ---
